@@ -1,23 +1,5 @@
-# homebrew-manop 
+# homebrew-manop
 
 ## Overview
 
-
-## Requirement
-
-
-## Usage
-
-
-## Features
-
-
-## Reference
-
-
-## Author
-
-
-## Licence
-
-Please see license.txt.
+Manop outputs a command description or an option description from the man or help page.
