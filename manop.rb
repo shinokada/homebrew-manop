@@ -5,7 +5,7 @@ class Manop < Formula
     sha256 "1f39dde9a5d31013b2dbf6119244a94ccd5ddc968612e2b05fdf2c1e8bbdbf6a"
     license "MIT"
   
-    # depends_on "gh" 
+    depends_on "bash" 
   
     def install
       bin.install "manop"
